@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@UtherSunlighter_testapp/pwa-test-12",
+  "name": "@UtherSunlighter/pwa-test-12",
   "version": "0.1.26",
   "repository": "https://github.com/UtherSunlighter/loro-testnet-example-pwa",
   "scripts": {
